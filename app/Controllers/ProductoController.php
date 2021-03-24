@@ -2,12 +2,10 @@
 
 namespace App\Controllers;
 
-use Illuminate\Http\Request;
 use Core\Template;
 use App\Repositories\ProductoRepo;
 use Core\Validation;
 use App\Helpers\Response;
-use App\Models\Producto;
 
 class ProductoController extends Template
 {

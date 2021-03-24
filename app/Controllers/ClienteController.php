@@ -7,7 +7,6 @@ use Core\Template;
 use App\Repositories\ClienteRepo;
 use Core\Validation;
 use App\Helpers\Response;
-use App\Models\Cliente;
 
 class ClienteController extends Template
 {
